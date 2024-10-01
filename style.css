@@ -211,7 +211,7 @@ footer::before {
 
 @media (max-width: 768px) {
     .header-content {
-        flex-direction: column;
+        flex-direction: row;
     }
 
     .nav-links {
